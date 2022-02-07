@@ -1,0 +1,1 @@
+# sary-inventory-task
